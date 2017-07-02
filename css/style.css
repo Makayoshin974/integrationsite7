@@ -1,0 +1,123 @@
+body { margin: 0 auto ;
+	background-color:white;
+	
+}
+header {
+	background-color: #b5ce00;
+	height: 40px;
+
+}
+
+
+
+ul { display: inline-flex; 
+	list-style: none;
+	margin-top: 10px;
+
+}
+ul li {margin-left: 0;
+	margin-right: 20px;
+	
+}
+ul li a {
+	color: white ;
+	
+}
+
+#jumbo{ 
+	background-color: #d9d9d9;
+	margin-bottom: 20px;
+	margin-top: 60px;
+
+}
+img {
+	position: relative;
+	margin-left: 180px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+	width: 781px;
+
+}
+article {
+	margin-left: 180px; }
+	article hr {
+		width: 760px;
+		margin-left: 0px;
+		margin-bottom: 25px; }
+		article .date {
+			width: 150px;
+			margin-top: -190px; }
+			article .a1, article .a2, article .a3 {
+				color: #fff;
+				height: 27px;
+				padding: 2px 0px 0px 5px;
+				position: absolute;
+				margin-top: 0px;
+				margin-left: 10px; }
+				article .a1 {
+					background-color: #f2ab35;
+					width: 80px; }
+					article .a2 {
+						background-color: #b5ce00;
+						width: 120px; }
+						article .a3 {
+							background-color: #b5ce00;
+							width: 170px; }
+							article h1, article .date, article .Android, article .main, article .phone {
+								margin-left: 390px; }
+								article h1 {
+									font-family: Arial;
+									font-size: 25px;
+									width: 343px; }
+									article .Android, article .main, article .phone {
+										font-family: sans serif;
+										width: 390px;
+										margin-bottom: 31px; }
+
+
+										aside {
+											margin-left: 180px; }
+											aside .vertical {
+												border: none;
+												border-left: 1px solid #73848c;
+												height: 1040px;
+												margin-left: 800px;
+												margin-top: -755px; }
+												aside h2 {
+													background-color: #b5ce00;
+													color: #fff;
+													width: 540px;
+													height: 37px;
+													font-family: 'Open Sans';
+													font-size: 18px;
+													font-weight: normal;
+													margin-bottom: 40px;
+													margin-left: 840px;
+													padding-left: 14px;
+													padding-top: 14px; }
+													aside h3, aside .makis {
+														margin-left: 1100px; }
+														aside .makis {
+															width: 280px;
+															color: #8c8d8f; }
+															aside .rs {
+																margin-right: 60px; }
+																aside .appli {
+																	margin-top: -1048px; }
+																	aside .crazy {
+																		float: left;
+																		clear: after;
+																		padding-right: 10px;
+																		margin-left: 840px; }
+																		aside .conteneur {
+																			position: relative;
+																			margin-left: 840px;
+																			margin-right: 23px;
+																			margin-top: 230px; }
+																			aside .identification {
+																				margin-top: 23px; }
+																				aside .login {
+																					width: 530px;
+																					color: #7f8384;
+																					margin-left: 0; }
